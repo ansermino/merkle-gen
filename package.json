@@ -1,0 +1,17 @@
+{
+  "name": "merkle-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ansermino <david@chainsafe.io>",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.5",
+    "ethereumjs-util": "^5.2.0",
+    "mtree": "^1.0.0",
+    "safe-buffer": "^5.1.2"
+  }
+}
